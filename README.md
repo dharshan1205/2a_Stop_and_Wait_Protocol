@@ -28,16 +28,14 @@ while True:
     else: 
         c.close() 
         break 
-    ```
-```
 SERVER 
 import socket 
 s=socket.socket() 
 s.connect(('localhost',8000)) 
 while True: 
     print(s.recv(1024).decode()) 
-    s.send("Acknowledgement Recived".encode()) 
-    ```
+    s.send("Acknowledgement Recived".encode())
+```
    
 ## OUTPUT
 ![Screenshot 2025-03-19 101558](https://github.com/user-attachments/assets/7a809351-7ace-4ded-aa6e-88520263dbb0)

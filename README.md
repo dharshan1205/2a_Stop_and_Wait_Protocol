@@ -1,7 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
 ## AIM 
-## NAME:R.MUSHAFINA 
-## REGISTER NUMBER : 212224220067
+## NAME:DHARSHAN R
+## REGISTER NUMBER : 212224230060
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
 1. Start the program.
@@ -38,8 +38,8 @@ while True:
 ```
    
 ## OUTPUT
-![Screenshot 2025-03-19 101558](https://github.com/user-attachments/assets/7a809351-7ace-4ded-aa6e-88520263dbb0)
-![Screenshot 2025-03-19 101641](https://github.com/user-attachments/assets/4845080b-4988-4446-85b5-3eda3bdbcd48)
+![WhatsApp Image 2025-04-22 at 21 35 12_8a0e9b9f](https://github.com/user-attachments/assets/99838509-c2d5-481d-aabf-ede9a2eacc52)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
